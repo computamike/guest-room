@@ -6,6 +6,8 @@ So the idea is that the chromecast becomes available on the network.  A server w
 So - What are we we writing this in?
 Well as I'm now a javascript developer I'll be looking at doing this in javascript.
 
+Challenge 0: How to run a node app as a service
+
 Challenge 1 : How do I know if an IP Address is on the network?
 
 Challenge 2 : How do I push a reciever to the ChromeCast
